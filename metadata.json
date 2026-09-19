@@ -1,0 +1,6 @@
+{
+  "name": "Gestión de Préstamos de Biblioteca",
+  "description": "Aplicación de escritorio para la gestión de préstamos de libros, registro de usuarios, catálogo y control del historial de devoluciones.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
